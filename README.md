@@ -1,4 +1,4 @@
-# **<ins>Auth Board Project</ins>**
+# **<ins>React Board Project</ins>**
 
 ## **<ins>Project Aim</ins>**
 To create a React Board with search usability and user login data.
